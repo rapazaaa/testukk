@@ -51,9 +51,9 @@
             </div>
 
             <!-- Image Section -->
-            <div class="w-full max-w-md">
+            <!-- <div class="w-full max-w-md">
                 <img src="https://illustrations.popsy.co/gray/student.svg" alt="Ilustrasi Siswa" class="w-full h-auto" />
-            </div>
+            </div> -->
         </div>
     </div>
 </body>
