@@ -30,7 +30,6 @@ class APIGuruController extends Controller
         $guru->email = $request->email;
         $guru->save();
         return response()->json($guru, 200);
-
     }
 
     /**
